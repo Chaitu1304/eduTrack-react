@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  background-color: #f0f0f0; /* Optional: background color */
+}
+
+.register-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  max-width: 400px;
+  background-color: #fff; /* White background for the form */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: shadow effect */
+}
+
+.register-container h1 {
+  text-align: center;
+}
+
+.register-container input,
+.register-container select {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.register-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.register-container button:hover {
+  background-color: #45a049;
+}
+
+.register-container p {
+  text-align: center;
+}
+.register-container .back-button {
+  margin-top: 10px; /* Optional: add some spacing */
+  background-color: #f44336; /* Red background for back button */
+  color: white; /* White text */
+}
+
+.register-container .back-button:hover {
+  background-color: #e53935; /* Darker red on hover */
+}

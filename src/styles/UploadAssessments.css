@@ -1,0 +1,36 @@
+.upload-assessments {
+    margin: 20px;
+    padding: 20px; /* Padding around the form */
+    border: 1px solid #ccc; /* Optional: border around the upload form */
+    border-radius: 10px; /* Optional: rounded corners */
+    background-color: #fff; /* White background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: shadow effect */
+  }
+  
+  .upload-assessments h2 {
+    text-align: center;
+  }
+  
+  .upload-assessments input {
+    display: block;
+    margin: 10px 0;
+    width: calc(100% - 22px); /* Full width minus padding */
+    padding: 10px; /* Padding inside the input */
+    border: 1px solid #ccc; /* Border for the input */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  .upload-assessments button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer on hover */
+  }
+  
+  .upload-assessments button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  

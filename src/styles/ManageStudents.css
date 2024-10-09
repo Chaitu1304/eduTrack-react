@@ -1,0 +1,26 @@
+.manage-students {
+    margin: 20px;
+    padding: 20px; /* Padding around the component */
+    border: 1px solid #ccc; /* Optional: border around the component */
+    border-radius: 10px; /* Rounded corners */
+    background-color: #fff; /* White background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
+  .manage-students h2 {
+    text-align: center;
+  }
+  
+  .manage-students ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+  }
+  
+  .manage-students li {
+    background-color: #f9f9f9; /* Light grey background for each student */
+    margin: 10px 0; /* Space between each student */
+    padding: 10px; /* Padding inside the list item */
+    border: 1px solid #ddd; /* Border for the list item */
+    border-radius: 5px; /* Rounded corners */
+  }
+  

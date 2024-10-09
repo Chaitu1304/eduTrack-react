@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    background-color: #f0f0f0; /* Optional: background color */
+  }
+  
+  .profile-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    max-width: 400px; /* Same max-width as login */
+    background-color: #fff; /* White background for the form */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: shadow effect */
+  }
+  
+  .profile-container h1 {
+    text-align: center;
+  }
+  
+  .profile-details {
+    margin: 10px 0; /* Space out profile details */
+  }
+  
+  .profile-details h3 {
+    text-align: left; /* Align left for the details section */
+  }
+  
+  .profile-details p {
+    margin: 5px 0; /* Space out paragraphs */
+  }
+  
+  .profile-details input {
+    margin-top: 5px;
+    width: calc(100% - 10px); /* Full width minus padding */
+  }
+  

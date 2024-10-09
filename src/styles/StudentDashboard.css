@@ -1,0 +1,38 @@
+.student-dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+    padding: 20px;
+    border: 1px solid #ccc; /* Optional: border around the dashboard */
+    border-radius: 10px; /* Optional: rounded corners */
+    background-color: #fff; /* White background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: shadow effect */
+  }
+  
+  .student-dashboard h1 {
+    text-align: center;
+  }
+  
+  .dashboard-options {
+    display: flex; /* Use flexbox for button alignment */
+    flex-direction: column; /* Stack buttons vertically */
+    align-items: center; /* Center buttons */
+  }
+  
+  .dashboard-options button {
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    width: 200px; /* Consistent button width */
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer on hover */
+  }
+  
+  .dashboard-options button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  
