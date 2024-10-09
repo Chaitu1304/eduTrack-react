@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/eduTrack-react/static/css/main.d0de4689.css",
-    "main.js": "/eduTrack-react/static/js/main.60660c56.js",
+    "main.css": "/eduTrack-react/static/css/main.79f250fa.css",
+    "main.js": "/eduTrack-react/static/js/main.412438f6.js",
     "static/media/1.jpg": "/eduTrack-react/static/media/1.90319e6d2903cfba9587.jpg",
     "index.html": "/eduTrack-react/index.html",
-    "main.d0de4689.css.map": "/eduTrack-react/static/css/main.d0de4689.css.map",
-    "main.60660c56.js.map": "/eduTrack-react/static/js/main.60660c56.js.map"
+    "main.79f250fa.css.map": "/eduTrack-react/static/css/main.79f250fa.css.map",
+    "main.412438f6.js.map": "/eduTrack-react/static/js/main.412438f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0de4689.css",
-    "static/js/main.60660c56.js"
+    "static/css/main.79f250fa.css",
+    "static/js/main.412438f6.js"
   ]
 }
